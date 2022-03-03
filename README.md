@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Me chamo Luciano Carvalho 🚀 </h1>
-💿 🤖 Atualmente estou aprendendo <b>Css,Javascript,Html,C++,Java<b>
+💿 🤖 Atualmente estou aprendendo <b>C++,Java<b>
   
 💿 ⏏️ Como me encontrar **lucianorustlol@gmail.com**<br>
 💿 ⌛ Cursando 3 ⚡ De Ciencias Da Computação
