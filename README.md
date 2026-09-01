@@ -2,7 +2,7 @@
 💿 🤖 Atualmente estou aprendendo <b>C++,Java<b>
   
 💿 ⏏️ Como me encontrar **lucianorustlol@gmail.com**<br>
-💿 ⌛ Cursando 8/8 ⚡ De Ciencias Da Computação
+💿 ⌛ Formado em ⚡ Ciencias Da Computação
   
 
 <h3 align="left">Conecte-se comigo:</h3>
